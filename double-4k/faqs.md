@@ -50,7 +50,7 @@ We recommend using a class 3 (U3 \~ 100mb/s) card. For the Double 4K, the maximu
 <summary>Can I operate the drone using Sentera FieldAgent? Can I import/view my data in FieldAgent?</summary>
 
 FieldAgent iOS App allows users to plan and fly missions with compatible drones. To learn more, view [our user guide ](https://support.senterasensors.com/fieldagent-mobile-ios)for FieldAgent Mobile.\
-Double 4K data can be imported into FieldAgent both on the Web and via our Desktop application. For more information on how to import and view your data in FieldAgent, view [this support article ](../fieldagent/fieldagent-importing-images.md).
+Double 4K data can be imported into FieldAgent both on the Web and via our Desktop application. For more information on how to import and view your data in FieldAgent, view [this support article ](broken-reference).
 
 </details>
 
